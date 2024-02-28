@@ -1,2 +1,2 @@
 # OG-Repository
-The First, Feeling Strong Man
+The First Repository, Feeling Strong Man
